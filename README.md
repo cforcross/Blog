@@ -1,5 +1,6 @@
 # Blog
-Not your Average Blog you see all over Youtube and other places 
+Not your Average Blog you see all over Youtube and other places.It's alot more explicit with
+alot of new implementations from Django 3.0.0 😊😊😊
 
 # Continuation
 The basic skeleton of the Blog has been completed using **django** as the backend

@@ -2,6 +2,14 @@
 Not your Average Blog you see all over Youtube and other places.It's alot more explicit with
 alot of new implementations from Django 3.0.0 😊😊😊
 
+# Features
+* RSS Feed
+* SiteMap
+* share post via email
+* Comment on post
+* search
+* Find post by tags
+
 # Continuation
 The basic skeleton of the Blog has been completed using **django** as the backend
 All that is left is to complete the Test and also to automate the entire blog
@@ -10,6 +18,11 @@ using **Selenium** All of the above will soon be implemented before being hosted
 # To Do 
 * Testing
 * React FrontEnd
+* Users can like post
+* image uploads
+
+# Database Used
+** Postgres
 
 # Credits
 All the resources i used for the project will be listed once im done

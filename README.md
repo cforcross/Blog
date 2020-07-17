@@ -16,7 +16,8 @@ All that is left is to complete the Test and also to automate the entire blog
 using **Selenium** All of the above will soon be implemented before being hosted
 
 # To Do 
-* Testing
+* unittest for TestCase
+*  Selenium implementation
 * React FrontEnd
 * Users can like post
 * image uploads

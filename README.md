@@ -9,3 +9,6 @@ using Selenium All of the above will soon be implemented before being hosted
 All the resources i used for the project will be listed once im done
 for now just enjoy took me awhile to really figure some little things out and 
 i almost say it was fun
+
+#Technologies Used
+![](https://miro.medium.com/max/800/1*DGnzHHkfYWG53uZE25ZCPw.png)

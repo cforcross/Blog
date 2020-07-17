@@ -20,9 +20,11 @@ using **Selenium** All of the above will soon be implemented before being hosted
 * React FrontEnd
 * Users can like post
 * image uploads
+* Social share buttons
+* Chat with django channels
 
 # Database Used
-** Postgres
+* Postgres
 
 # Credits
 All the resources i used for the project will be listed once im done

@@ -7,6 +7,10 @@ The basic skeleton of the Blog has been completed using **django** as the backen
 All that is left is to complete the Test and also to automate the entire blog
 using **Selenium** All of the above will soon be implemented before being hosted
 
+# To Do 
+* Testing
+* React FrontEnd
+
 # Credits
 All the resources i used for the project will be listed once im done
 for now just enjoy took me awhile to really figure some little things out and 

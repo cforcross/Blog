@@ -32,6 +32,7 @@ All the resources i used for the project will be listed once im done
 for now just enjoy took me awhile to really figure some little things out and 
 i almost say it was fun. Lets begint the credit with the guys at django;
 * DJANGO
+* Antonio Mele 
 
 
 # Technologies Used

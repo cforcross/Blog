@@ -23,6 +23,7 @@ using **Selenium** All of the above will soon be implemented before being hosted
 * image uploads
 * Social share buttons
 * Chat with django channels
+* Internationalisation
 
 # Database Used
 * Postgres

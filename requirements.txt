@@ -8,7 +8,7 @@ cffi==1.14.0
 colorama==0.4.3
 decorator==4.4.2
 defusedxml==0.6.0
-Django==3.0.8
+Django==3.0.12
 django-misaka==0.2.1
 django-social-share==1.4.0
 django-social-widgets==0.4.0
